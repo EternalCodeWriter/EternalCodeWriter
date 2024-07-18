@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Kumar.
-- 👀 I’m interested in watching movies and spending time with friends.
+- 👀 I’m interested to learn modern effects and spending time with friends.
 - 🌱 I’m currently learning BCA.
-- 💞️ I’m looking to get a job to achieve my future goals. 
+- 💞️ I’m seeking a job to achieve my goals. 
 - 📫 you can connect to me with this email "bca55abhi@gmail.com" 
 <!---
 EternalCodeWriter/EternalCodeWriter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
